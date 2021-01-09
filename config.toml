@@ -1,0 +1,4 @@
+baseURL = "http://golang.local/"
+languageCode = "ja-jp"
+title = "golang.local"
+theme = "ananke"
