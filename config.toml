@@ -1,4 +1,4 @@
-baseURL = "http://golang.local/"
+baseURL = "https://golang-local.gocon.jp/"
 languageCode = "ja-jp"
 title = "golang.local"
 theme = "ananke"
