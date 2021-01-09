@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on golang.local</title>
+    <link>https://golang-local.gocon.jp/posts/</link>
+    <description>Recent content in Posts on golang.local</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 09 Jan 2021 13:22:01 +0900</lastBuildDate><atom:link href="https://golang-local.gocon.jp/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to golang.local</title>
+      <link>https://golang-local.gocon.jp/posts/welcome-to-golang-local/</link>
+      <pubDate>Sat, 09 Jan 2021 13:22:01 +0900</pubDate>
+      
+      <guid>https://golang-local.gocon.jp/posts/welcome-to-golang-local/</guid>
+      <description>golang.localへようこそ！
+golang.local は「参加者の場所・地域も問わず、Goを愛する全ての人の世界をもっと広げたい」というコンセプトのもと、 Goを愛する全てのひとのコミュニケーションハブを目指しています！ まだまだ少ないGo人口を増やし、Goに興味がある人たちが気軽にコミュニケーションできる環境を創造していくことを目的にしたイベントグループです。
+今回記念すべき第一回イベントを開催することになりました。 第1回イベントでは双方向コミュニケーションを重視した場作りを目指し、golang.localがきっかけとなって普段交流のないGo Loverな人たちのハブにしたいと思い賛同してくれた有志によって開催することとなりました！</description>
+    </item>
+    
+  </channel>
+</rss>

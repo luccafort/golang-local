@@ -1,7 +1,7 @@
 ---
 title: "Welcome to golang.local"
 date: 2021-01-09T13:22:01+09:00
-draft: true
+draft: false
 ---
 
 golang.localへようこそ！
